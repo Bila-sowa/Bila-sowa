@@ -14,3 +14,10 @@ I am a beginner frontend developer from Ukraine.
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=?)](https://discord.gg/cJzwx7cg)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=?)](https://steamcommunity.com/profiles/76561199189650296/)
 [![Soundcloud](https://img.shields.io/badge/-Soundcloud-090909?style=for-the-badge&logo=Soundcloud&logoColor=?)](https://soundcloud.com/bila_sowa)
+
+<div>
+  <img src="./img/Image2.jpg" width="100px" height="100px" style="border-radius: 1rem;" alt="PlayerImage">
+  <audio controls>
+    <source src="./Music/Music.mp3" type="audio/mpeg">
+  </audio>
+</div>
