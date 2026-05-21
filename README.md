@@ -15,5 +15,5 @@ I am a beginner frontend developer from Ukraine.
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=?)](https://steamcommunity.com/profiles/76561199189650296/)
 [![Soundcloud](https://img.shields.io/badge/-Soundcloud-090909?style=for-the-badge&logo=Soundcloud&logoColor=?)](https://soundcloud.com/bila_sowa)
 
-![Image](./img/Image2.jpg)
+<img src="./img/Image2.jpg" width="100px" height="100px" style="border-radius: 1rem;" alt="PlayerImage">
 [SEMATARY - SET ME ON FIRE PROD. SEMATARY](https://soundcloud.com/semataryy/sematary-set-me-on-fire-prod-sematary-22)
