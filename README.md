@@ -17,7 +17,5 @@ I am a beginner frontend developer from Ukraine.
 
 <div>
   <img src="./img/Image2.jpg" width="100px" height="100px" style="border-radius: 1rem;" alt="PlayerImage">
-  <audio controls>
-    <source src="./Music/Music.mp3" type="audio/mpeg">
-  </audio>
+  <a href=https://soundcloud.com/semataryy/sematary-set-me-on-fire-prod-sematary-22 style="font-color: #f28c47;">SEMATARY - SET ME ON FIRE PROD. SEMATARY</a>
 </div>
