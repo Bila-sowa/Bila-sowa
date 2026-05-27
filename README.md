@@ -1,4 +1,3 @@
-![Image](./img/Image1.webp)
 ## About Me
 I am a beginner frontend developer from Ukraine.
 
