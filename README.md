@@ -12,6 +12,5 @@ I am a beginner frontend developer from Ukraine.
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=?)](https://t.me/Bila_sowa)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=?)](https://discord.gg/cJzwx7cg)
 
-## My open-source projects
-- [Web player](https://bila-sowa.github.io/Web-player-/)
+
 
