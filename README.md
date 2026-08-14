@@ -20,6 +20,7 @@
 - <img width="16" src="./assets/stack/css.svg" alt> CSS 3
 - <img width="16" src="./assets/stack/tailwind.svg" alt> Tailwind CSS
 - <img width="16" src="./assets/stack/js.svg" alt> JavaScript
+- <img width="16" src="./assets/stack/sass.svg" alt> Sass
 
 ### Other Skills
 - <img width="16" src="./assets/skills/language.svg" alt> English A2
@@ -29,7 +30,7 @@
 
 ### Projects
 - <img width="16" src="./assets/projects/gitMap.webp" alt> <a href="https://github.com/Bila-sowa/GitMap">GitMap</a> - a simple website to load your graph from a repo with a drag & drop canvas, letting you explore branches and commit history visually.
-- <img src="./assets/projects/area.svg" alt> <a href="https://github.com/Bila-sowa/Area">Area</a> - Layout of the Area website from the mockup: <a href="https://www.figma.com/community/file/1487309170684591074/modern-product-launch"> https://www.figma.com/community/file/1487309170684591074/modern-product-launch.</a>
+- <img src="./assets/projects/area.svg" alt> <a href="https://github.com/Bila-sowa/Area">Area</a> - Layout of the Area website from the mockup.
 
 ### Contacts
 - <img width="16" src="./assets/contacts/discord.svg" alt> Discord user name: **Bila_sowa**
