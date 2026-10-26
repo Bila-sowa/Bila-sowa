@@ -1,42 +1,70 @@
-<h1>About Me</h1>
 <div align="center">
-    <img width="1540" src="./assets/banner.jpg" alt="banner">
+  <img width="100%" src="./assets/banner.webp" alt="Bila-sowa banner">
+  <h1>Hi, I'm Bila-sowa 👋</h1>
+  <p><b>Frontend Developer</b> from Ukraine · clean UI & structured docs</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=420&lines=React+%2B+TypeScript;Tailwind+%26+Sass;Docs+%26+Plans" alt="Typing SVG">
 </div>
 
-- ✅ Frontend developer from Ukraine.
+<p align="center">
+  <a href="https://t.me/Bila_sowa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/Bila-sowa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:zlepkopavlo9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://roadmap.sh/u/6a5505ec46fc9b8ea90ffb56?roadmapId=frontend"><img src="https://img.shields.io/badge/roadmap.sh-Frontend-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="roadmap.sh"></a>
+</p>
 
-- 😶 I know English and Ukraine languages.
+<p align="center">
+  <img src="./assets/contacts/discord.svg" width="18" height="18" alt="Discord"> <code>Bila_sowa</code>
+</p>
 
-- 🙂 In my work I am friendly, ready to help, and search for solutions until the very end.
+---
 
-- 🔧 I have good skills with the terminal and Unix systems.
+### 🧑‍💻 About me
 
-- 👨‍💻 I stick to consistent coding principles.
+- Frontend developer from Ukraine
+- I enjoy writing structured documentation and plans
+- Confident with the terminal and Unix systems
+- I follow consistent coding principles
+- Stress-resistant and reliable under pressure
+- I actively use LLM tools in my workflow
 
-- 🏢 I have good stress resistance for working under difficult conditions.
+---
 
-### Stack
+### 🛠 Stack
 
-- <img width="16" src="./assets/stack/html.svg" alt> HTML 5
-- <img width="16" src="./assets/stack/css.svg" alt> CSS 3
-- <img width="16" src="./assets/stack/tailwind.svg" alt> Tailwind CSS
-- <img width="16" src="./assets/stack/sass.svg" alt> Sass
-- <img width="16" src="./assets/stack/js.svg" alt> JavaScript
-- <img width="16" src="./assets/stack/react.svg" alt> React
+<p align="center">
+  <img src="./assets/stack/html.svg" width="40" height="40" alt="HTML5">
+  <img src="./assets/stack/css.svg" width="40" height="40" alt="CSS3">
+  <img src="./assets/stack/sass.svg" width="40" height="40" alt="Sass">
+  <img src="./assets/stack/tailwind.svg" width="40" height="40" alt="Tailwind CSS">
+  <img src="./assets/stack/js.svg" width="40" height="40" alt="JavaScript">
+  <img src="./assets/stack/react.svg" width="40" height="40" alt="React">
+</p>
 
-### Other Skills
+<p align="center">
+  HTML5 · CSS3 · Sass · Tailwind CSS · JavaScript · TypeScript · React
+</p>
 
-- <img width="16" src="./assets/skills/language.svg" alt> English A2
-- <img width="16" src="./assets/skills/vite.svg" alt> Vite/Npm
-- <img width="16" src="./assets/skills/figma.svg" alt> Figma
-- <img width="16" src="./assets/skills/claude.svg" alt> Claude/Cursor/Antigravity
+---
 
-### Projects
+### 🧰 Tools & skills
 
-- <img width="16" src="./assets/projects/gitMap.webp" alt> <a href="https://github.com/Bila-sowa/GitMap">GitMap</a> - a simple website to load your graph from a repo with a drag & drop canvas, letting you explore branches and commit history visually.
-- <img src="./assets/projects/area.svg" alt> <a href="https://github.com/Bila-sowa/Area">Area</a> - Layout of the Area website from the mockup.
+- <img src="./assets/skills/language.svg" width="16" height="16" alt=""> **Languages:** Ukrainian (native) · English (A2)
+- <img src="./assets/skills/vite.svg" width="16" height="16" alt=""> **Build:** Vite · npm
+- <img src="./assets/skills/figma.svg" width="16" height="16" alt=""> **Design:** Figma
+- <img src="./assets/skills/claude.svg" width="16" height="16" alt=""> **AI:** Claude · Cursor · Antigravity
+- **Systems:** terminal · Unix
 
-### Contacts
+---
 
-- <img width="16" src="./assets/contacts/discord.svg" alt> Discord user name: **Bila_sowa**
-- <img width=16 src="./assets/contacts/telegram.svg" alt> <a href="https://t.me/Bila_sowa">Telegram</a>
+### 🚀 Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| <img src="./assets/projects/gitMap.webp" width="16" height="16" alt=""> **[GitMap](https://github.com/Bila-sowa/GitMap)** | Load any repo's graph on a drag & drop canvas and explore branches and commit history visually | React · TypeScript |
+| <img src="./assets/projects/area.svg" width="16" height="16" alt=""> **[Area](https://github.com/Bila-sowa/Area)** | Pixel-perfect layout of the Area website from the mockup | HTML · CSS |
+
+---
+
+<div align="center">
+  <i>“First, solve the problem. Then, write the code.”</i>
+</div>
