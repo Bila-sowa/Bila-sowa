@@ -1,8 +1,8 @@
-<div align="center">
+  <div align="center">
   <img width="100%" src="./assets/banner.webp" alt="Bila-sowa banner">
   <h1>Hi, I'm Bila-sowa 👋</h1>
   <p align="center">🟢 Open to work · Junior frontend roles & Freelance</p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=420&lines=React;Tailwind+%26+Sass;Vite+%2B+Vitest" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=420&lines=React+%2B+JavaScript;Tailwind+%26+Sass;Vite+%2B+Vitest" alt="Typing SVG">
 </div>
 
 <p align="center">
